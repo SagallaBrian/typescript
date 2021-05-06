@@ -1,6 +1,8 @@
 ## Typescript Tutorial
+Typescript is a supeset of JavaScript 
+It allows for static type checking 
 
 
-### Introductio to TypeScript 
+### Introduction to TypeScript 
 
 
