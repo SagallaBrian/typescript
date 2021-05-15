@@ -12,7 +12,7 @@ class Phones {
         this.phn_brand = brand;
         this.phn_year = year;
         this.myclassid = "class89" ;
-        this.phn_country = country
+        this.phn_country = country 
     }
 
     phndisp() {

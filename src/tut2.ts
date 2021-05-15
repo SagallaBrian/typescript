@@ -16,7 +16,7 @@ let myobject3: myobjtyp = {
 
 // Working with dom 
 let myhtmlel1 = document.getElementById("myelement");
-let myhtmlprop1 = myhtmlel1.nodeValue
+let myhtmlprop1 = myhtmlel1.nodeValue 
 
 // setting to html input 
 let myhtmlel2 = document.getElementById("myelement2") as HTMLInputElement;

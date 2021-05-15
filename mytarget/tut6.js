@@ -20,7 +20,7 @@ function myidentyfunction3(par1, par2, par3) {
 var myreturntyp4 = myidentyfunction3(45, 23, "8y");
 var myobject6 = {
     uniname: "jkuat",
-    uninumber: 23
+    uninumber: 23,
 };
 function myidentyfunction4(myoparam) {
     return myoparam;

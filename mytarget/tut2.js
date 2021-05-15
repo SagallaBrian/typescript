@@ -1,7 +1,7 @@
 var myname = "Brian Sagalla";
 var myobject3 = {
     num1: 21,
-    num2: 23
+    num2: 23,
 };
 // Working with dom 
 var myhtmlel1 = document.getElementById("myelement");

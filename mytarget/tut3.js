@@ -11,5 +11,5 @@ var myobject1 = {
 };
 var myobject2 = {
     uniname: "jkuat",
-    uninumber: 23
+    uninumber: 23,
 };
